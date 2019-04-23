@@ -1,3 +1,0 @@
-model_checkpoint_path: "/home/dasan/mwf/fesum_H5_MWF/epoch1999.ckpt"
-all_model_checkpoint_paths: "/home/dasan/mwf/fesum_H5_MWF/epoch999.ckpt"
-all_model_checkpoint_paths: "/home/dasan/mwf/fesum_H5_MWF/epoch1999.ckpt"
