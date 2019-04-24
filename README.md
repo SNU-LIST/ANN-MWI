@@ -9,7 +9,7 @@ Overview
 
 Two different artificial neural networks (ANN I and ANN II) for generating myelin water imaging were proposed in the manuscript.
 
-In the *train_result* folder, final parameters from three different networks were uploaded.
+In the *trained_networks* folder, final parameters from three different networks were uploaded.
 
 (Three networks: *ANNI_mwf* for myelin water fraction, *ANNI_ggm* for geometric mean T2, and *ANNII* for T2 distribution)
 
@@ -45,7 +45,7 @@ Usage
 
 - **test_ANNMWI.py**: to test the trained network with the normalized test set.
 
-     For the test, you can use our results (.ckpt files) in each corresponding network folder in the *train_result* folder.
+     For the test, you can use our results (.ckpt files) in each corresponding network folder in the *trained_networks* folder.
                
 
 
