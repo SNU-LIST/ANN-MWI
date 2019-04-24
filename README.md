@@ -1,4 +1,4 @@
-# ANN-MWI
+# Artificial Neural Network for Myelin Water Imaging: ANN-MWI
 Source code to train and test the network (.py), and data preprocessing (.m) from the manuscript.
 
 
@@ -11,7 +11,7 @@ Two different artificial neural networks (ANN I and ANN II) for generating myeli
 
 In the *trained_networks* folder, final parameters from three different networks were uploaded.
 
-(Three networks: *ANNI_mwf* for myelin water fraction, *ANNI_ggm* for geometric mean T2, and *ANNII* for T2 distribution)
+(Three networks: *ANNI_mwf* for myelin water fraction, *ANNI_gmt2* for geometric mean T2, and *ANNII* for T2 distribution)
 
 Please read the usage below for details.
 
