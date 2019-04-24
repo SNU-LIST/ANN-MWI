@@ -31,19 +31,19 @@ Requirements
 
 Usage
 ---------
-* Training
+### Training
 
-  **make_trainingset.m**: to make the training set with normalizing data.
+- **make_trainingset.m**: to make the training set with normalizing data.
 
-  **Training.py**: to train the network with the normalized training set.
+- **Training.py**: to train the network with the normalized training set.
 
 
 
-* Test
+### Test
 
-  **make_testset.m**: to make the test set with normalizing data.
+- **make_testset.m**: to make the test set with normalizing data.
 
-  **Test.py**: to test the trained network with the normalized test set.
+- **Test.py**: to test the trained network with the normalized test set.
 
      For the test, you can use our results (.ckpt files) in each corresponding network folder in the *train_result* folder.
                
