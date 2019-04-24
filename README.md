@@ -7,11 +7,11 @@ Overview
 ---------
 ![overview_fig](https://user-images.githubusercontent.com/49778751/56625868-38699e80-667a-11e9-8ea2-954fd8275e89.png)
 
-**Two different artificial neural networks (ANN I and ANN II) for generating myelin water imaging were proposed.**
+**Two different artificial neural networks (ANN I and ANN II) for generating myelin water imaging were proposed in the manuscript.**
 
 In the *train_result* folder, final parameters from three different networks were uploaded.
 
-(3 networks: *ANNI_mwf* for myelin water fraction, *ANNI_ggm* for geometric mean T2, and *ANNII* for T2 distribution)
+(Three networks: *ANNI_mwf* for myelin water fraction, *ANNI_ggm* for geometric mean T2, and *ANNII* for T2 distribution)
 
 Please read the usage below for details.
 
