@@ -7,7 +7,7 @@ Overview
 ---------
 ![overview_fig](https://user-images.githubusercontent.com/49778751/56625868-38699e80-667a-11e9-8ea2-954fd8275e89.png)
 
-**Two different artificial neural networks (ANN I and ANN II) for generating myelin water imaging were proposed in the manuscript.**
+Two different artificial neural networks (ANN I and ANN II) for generating myelin water imaging were proposed in the manuscript.
 
 In the *train_result* folder, final parameters from three different networks were uploaded.
 
@@ -35,7 +35,7 @@ Usage
 
 - **make_trainingset.m**: to make the training set with normalizing data.
 
-- **Training.py**: to train the network with the normalized training set.
+- **train_ANNMWI.py**: to train the network with the normalized training set.
 
 
 
@@ -43,7 +43,7 @@ Usage
 
 - **make_testset.m**: to make the test set with normalizing data.
 
-- **Test.py**: to test the trained network with the normalized test set.
+- **test_ANNMWI.py**: to test the trained network with the normalized test set.
 
      For the test, you can use our results (.ckpt files) in each corresponding network folder in the *train_result* folder.
                
