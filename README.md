@@ -5,7 +5,7 @@ Source code to train and test the network (.py), and data preprocessing (.m) fro
 
 Overview
 ---------
-![overview_fig](https://user-images.githubusercontent.com/49778751/56709886-98d20c00-675e-11e9-87bb-206212e5308d.png)
+![overview_fig](https://user-images.githubusercontent.com/49778751/56742469-c4311700-67af-11e9-84ec-b89c651bf189.png)
 
 Two different artificial neural networks (ANN I and ANN II) for generating myelin water imaging were proposed in the manuscript.
 
