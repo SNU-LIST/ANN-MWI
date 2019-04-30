@@ -51,9 +51,7 @@ Usage
 
 References
 ---------
-Please cite the following publication if you use our work.
-
-http://arxiv.org/abs/1904.12522
+Please cite the following publication if you use our work (http://arxiv.org/abs/1904.12522).
 
        @ARTICLE{2019arXiv190412522L,
        author = {{Lee}, Jieun and {Lee}, Doohee and {Choi}, Joon Yul and {Shin}, Dongmyung and {Shin}, Hyeong-Geol and {Lee}, Jongho},
