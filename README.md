@@ -52,7 +52,9 @@ Usage
 References
 ---------
 Please cite the following publication if you use our work.
+
 http://arxiv.org/abs/1904.12522
+
                     @ARTICLE{2019arXiv190412522L,
        author = {{Lee}, Jieun and {Lee}, Doohee and {Choi}, Joon Yul and
          {Shin}, Dongmyung and {Shin}, Hyeong-Geol and {Lee}, Jongho},
@@ -63,9 +65,9 @@ http://arxiv.org/abs/1904.12522
         month = "Apr",
           eid = {arXiv:1904.12522},
         pages = {arXiv:1904.12522},
-archivePrefix = {arXiv},
+     archivePrefix = {arXiv},
        eprint = {1904.12522},
- primaryClass = {eess.IV},
+      primaryClass = {eess.IV},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019arXiv190412522L},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
+       }
