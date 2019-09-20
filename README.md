@@ -1,5 +1,5 @@
 ## Artificial Neural Network for Myelin Water Imaging: ANN-MWI
-Source code to train and test the network (.py), and data preprocessing (.m) from the manuscript "Artificial neural network for myelin water imaging".
+Source code to train and test the network (.py), and data preprocessing (.m) from the manuscript "Artificial neural network for myelin water imaging", submitted to Magnetic Resonance in Medicine.
 
 
 
@@ -54,7 +54,8 @@ References
 Please cite the following publication if you use our work (http://arxiv.org/abs/1904.12522).
 
        @ARTICLE{2019arXiv190412522L,
-       author = {{Lee}, Jieun and {Lee}, Doohee and {Choi}, Joon Yul and {Shin}, Dongmyung and {Shin}, Hyeong-Geol and {Lee}, Jongho},
+       author = {{Lee}, Jieun and {Lee}, Doohee and {Choi}, Joon Yul and
+       {Shin}, Dongmyung and {Shin}, Hyeong-Geol and {Lee}, Jongho},
        title = "{Artificial neural network for myelin water imaging}",
        journal = {arXiv e-prints},
        keywords = {Electrical Engineering and Systems Science - Image and Video Processing},
