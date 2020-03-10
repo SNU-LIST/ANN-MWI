@@ -28,6 +28,12 @@ Requirements
 * MATLAB R2017b
 
 
+Data acquisition
+---------
+* 3T Trio MRI scanner (Siemens Healthcare, Erlangen, Germany)
+
+* 3D multi-combined gradient and spin echo sequence
+
 
 Usage
 ---------
