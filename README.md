@@ -51,21 +51,15 @@ Usage
 
 References
 ---------
-Please cite the following publication if you use our work (http://arxiv.org/abs/1904.12522).
+Please cite the following publication if you use our work (https://doi.org/10.1002/mrm.28038).
 
-       @ARTICLE{2019arXiv190412522L,
+       @ARTICLE{
        author = {{Lee}, Jieun and {Lee}, Doohee and {Choi}, Joon Yul and
        {Shin}, Dongmyung and {Shin}, Hyeong-Geol and {Lee}, Jongho},
        title = "{Artificial neural network for myelin water imaging}",
-       journal = {arXiv e-prints},
-       keywords = {Electrical Engineering and Systems Science - Image and Video Processing},
-       year = "2019",
-       month = "Apr",
-       eid = {arXiv:1904.12522},
-       pages = {arXiv:1904.12522},
-       archivePrefix = {arXiv},
-       eprint = {1904.12522},
-       primaryClass = {eess.IV},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2019arXiv190412522L},
-       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+       journal = {Magnetic Resonance in Medicine},
+       year = "2020",
+       month = "May",
+       eid = {Volume 83, Issue 5},
+       pages = {1875-1883},
        }
